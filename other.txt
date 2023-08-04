@@ -1,0 +1,17 @@
+//		creation of Table:
+//		String sql="CREATE TABLE BANK1 (PAN_NO VARCHAR(10) NOT NULL, NAME VARCHAR(50), PHONE_NO VARCHAR(10), ACCOUNT_NO VARCHAR(15), BALANCE DECIMAL, ACCOUNT_TYPE INT)";
+//		st.executeUpdate(sql);
+		 
+		//INSERTION OF TEST DATA
+//		String test1="INSERT INTO BANK1 VALUES('QWERTY1234', 'TATHAGATA', '1236547890', '0987456321', 20000.25, 1)";
+//		String test2="INSERT INTO BANK1 VALUES('ASDFG12345', 'AKASH', '5176547892', '4512369877', 37000.25, 2)";
+//		st.executeUpdate(test1);
+//		st.executeUpdate(test2);
+		
+		//DISPLAY OF TEST DATA
+//		String display="SELECT * FROM BANK1";
+//		ResultSet rs = st.executeQuery(display);
+
+//		while (rs.next()) {
+//			System.out.println(rs.getString(1) + " " + rs.getString(2) + " " + rs.getString(3) + " " + rs.getString(4) + " "+ rs.getDouble(5) +" "+ rs.getInt(6));
+//		}
